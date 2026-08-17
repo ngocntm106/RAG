@@ -1,0 +1,58 @@
+[
+  {
+    "query_id": "Q01",
+    "question": "Cơ cấu lại thời hạn trả nợ được quy định như thế nào?",
+    "relevant_chunk_ids": ["adv_c1", "adv_c2", "adv_c3"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q02",
+    "question": "Điều kiện để khách hàng được gia hạn nợ và giãn nợ là gì?",
+    "relevant_chunk_ids": ["adv_c2"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q03",
+    "question": "Quy định về việc giữ nguyên nhóm nợ khi gia hạn nghĩa vụ trả nợ?",
+    "relevant_chunk_ids": ["adv_c3"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q04",
+    "question": "Việc phân loại nợ và trích lập dự phòng rủi ro được thực hiện như thế nào?",
+    "relevant_chunk_ids": ["adv_c4", "adv_c5"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q05",
+    "question": "Khoản nợ quá hạn bao nhiêu ngày thì bị chuyển sang nhóm nợ xấu?",
+    "relevant_chunk_ids": ["adv_c5"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q06",
+    "question": "Hội đồng xử lý rủi ro quyết định việc xử lý nợ đọng như thế nào?",
+    "relevant_chunk_ids": ["adv_c6"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q07",
+    "question": "Chính sách miễn giảm lãi vay cho khách hàng gặp thiên tai dịch bệnh?",
+    "relevant_chunk_ids": ["adv_c7"],
+    "scope": "in_scope",
+    "needs_human_review": true
+  },
+  {
+    "query_id": "Q08",
+    "question": "Ngân hàng nào có lãi suất tiết kiệm cao nhất hôm nay?",
+    "relevant_chunk_ids": ["adv_c8"],
+    "scope": "out_of_scope",
+    "needs_human_review": true
+  }
+]

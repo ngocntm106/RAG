@@ -1,0 +1,66 @@
+[
+  {
+    "chunk_id": "adv_c1",
+    "strategy": "hierarchical",
+    "source": "thong_tu_01_2024.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Điều 4. Cơ cấu lại thời hạn trả nợ. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài xem xét cơ cấu lại thời hạn trả nợ đối với số nợ gốc và nợ lãi khi khách hàng không có khả năng trả nợ đúng hạn theo hợp đồng."
+  },
+  {
+    "chunk_id": "adv_c2",
+    "strategy": "hierarchical",
+    "source": "thong_tu_01_2024.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Khoản 2 Điều 4. Điều kiện gia hạn nợ và giãn nợ. Khách hàng được xem xét kéo dài thời gian hoàn trả tiền vay khi đáp ứng điều kiện có phương án kinh doanh khả thi và khả năng tài chính phục hồi sau cơ cấu."
+  },
+  {
+    "chunk_id": "adv_c3",
+    "strategy": "hierarchical",
+    "source": "thong_tu_01_2024.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Điều 5. Giữ nguyên nhóm nợ. Việc giữ nguyên nhóm nợ được thực hiện đối với các khoản nợ được cơ cấu lại thời hạn trả nợ theo quy định tại Điều 4 Thông tư này."
+  },
+  {
+    "chunk_id": "adv_c4",
+    "strategy": "hierarchical",
+    "source": "thong_tu_02_2024.pdf",
+    "page_start": 3,
+    "page_end": 3,
+    "text": "Điều 10. Phân loại nợ và trích lập dự phòng rủi ro. Tổ chức tín dụng thực hiện phân loại nợ theo 5 nhóm nợ từ nhóm 1 đến nhóm 5 và trích lập dự phòng rủi ro cụ thể theo tỷ lệ quy định."
+  },
+  {
+    "chunk_id": "adv_c5",
+    "strategy": "hierarchical",
+    "source": "thong_tu_02_2024.pdf",
+    "page_start": 3,
+    "page_end": 4,
+    "text": "Khoản 1 Điều 10. Đánh giá chất lượng tín dụng và dự phòng rủi ro. Các khoản nợ quá hạn trên 90 ngày phải được chuyển sang nhóm nợ xấu và tính toán chi phí dự phòng tương ứng."
+  },
+  {
+    "chunk_id": "adv_c6",
+    "strategy": "hierarchical",
+    "source": "thong_tu_03_2024.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Điều 12. Xử lý rủi ro tín dụng. Việc sử dụng dự phòng rủi ro để xử lý nợ đọng được thực hiện theo quyết định của Hội đồng xử lý rủi ro của ngân hàng."
+  },
+  {
+    "chunk_id": "adv_c7",
+    "strategy": "hierarchical",
+    "source": "thong_tu_03_2024.pdf",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Khoản 3 Điều 12. Miễn giảm lãi vay cho khách hàng gặp khó khăn do thiên tai, dịch bệnh theo chính sách hỗ trợ tài chính đặc thù của Ngân hàng Nhà nước."
+  },
+  {
+    "chunk_id": "adv_c8",
+    "strategy": "hierarchical",
+    "source": "tintuc_kinhte.pdf",
+    "page_start": 10,
+    "page_end": 10,
+    "text": "Tin tức thị trường: Các ngân hàng thương mại niêm yết biểu lãi suất tiết kiệm kỳ hạn 12 tháng dao động từ 5.0% đến 6.5%/năm trong tháng này."
+  }
+]

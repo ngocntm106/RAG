@@ -1,0 +1,42 @@
+[
+  {
+    "chunk_id": "sample_h1",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Nội dung mẫu chunk 1 chiến lược hierarchical."
+  },
+  {
+    "chunk_id": "sample_h2",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Nội dung mẫu chunk 2 chiến lược hierarchical trải dài từ trang 1 đến trang 2."
+  },
+  {
+    "chunk_id": "sample_h3",
+    "strategy": "hierarchical",
+    "source": "sample_doc.pdf",
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Nội dung mẫu chunk 3 chiến lược hierarchical."
+  },
+  {
+    "chunk_id": "sample_s1",
+    "strategy": "semantic",
+    "source": "sample_doc.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Nội dung mẫu chunk chiến lược semantic."
+  },
+  {
+    "chunk_id": "sample_f1",
+    "strategy": "fixed-size",
+    "source": "sample_doc.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Nội dung mẫu chunk chiến lược fixed-size."
+  }
+]
