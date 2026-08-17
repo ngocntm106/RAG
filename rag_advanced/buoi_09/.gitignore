@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+storage/chroma/*
+!storage/chroma/.gitkeep
+storage/hierarchy/*
+!storage/hierarchy/.gitkeep
+storage/huggingface/*
+!storage/huggingface/.gitkeep
+reports/*.json
+*.log

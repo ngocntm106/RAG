@@ -1,0 +1,67 @@
+[
+  {
+    "_comment": "Fixture dữ liệu phân cấp giả lập — dùng cho unit tests Buổi 09 offline",
+    "chunk_id": "TT_39_2016_NHNN:hierarchical:0010",
+    "strategy": "hierarchical",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Khoản 1. Tổ chức tín dụng được cho vay đối với khách hàng là pháp nhân và cá nhân.",
+    "structure": {
+      "chapter": "Chương II",
+      "article": "Điều 8. Những nhu cầu vốn không được cho vay",
+      "clause": "1"
+    }
+  },
+  {
+    "chunk_id": "TT_39_2016_NHNN:hierarchical:0011",
+    "strategy": "hierarchical",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Điểm a. Để mua, sử dụng các hàng hoá, dịch vụ thuộc danh mục hàng hoá, dịch vụ cấm kinh doanh.",
+    "structure": {
+      "chapter": "Chương II",
+      "article": "Điều 8. Những nhu cầu vốn không được cho vay",
+      "clause": "1",
+      "point": "a"
+    }
+  },
+  {
+    "chunk_id": "TT_39_2016_NHNN:hierarchical:0012",
+    "strategy": "hierarchical",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Điểm b. Để mua, sử dụng hàng hoá, dịch vụ mà giao dịch mua bán bị cấm theo quy định của pháp luật.",
+    "structure": {
+      "chapter": "Chương II",
+      "article": "Điều 8. Những nhu cầu vốn không được cho vay",
+      "clause": "1",
+      "point": "b"
+    }
+  },
+  {
+    "chunk_id": "TT_39_2016_NHNN:hierarchical:0020",
+    "strategy": "hierarchical",
+    "source": "TT_39_2016_NHNN.pdf",
+    "page_start": 8,
+    "page_end": 8,
+    "text": "Khoản 1. Thời hạn cho vay ngắn hạn tối đa là 12 tháng.",
+    "structure": {
+      "chapter": "Chương III",
+      "article": "Điều 10. Thời hạn cho vay",
+      "clause": "1"
+    }
+  },
+  {
+    "_comment": "Chunk không có structure — edge case cho resolver",
+    "chunk_id": "TT_02_2023_NHNN:hierarchical:0001",
+    "strategy": "hierarchical",
+    "source": "TT_02_2023_NHNN.pdf",
+    "page_start": 1,
+    "page_end": 1,
+    "text": "THÔNG TƯ Số: 02/2023/TT-NHNN — Thông tư cơ cấu lại thời hạn trả nợ.",
+    "structure": null
+  }
+]

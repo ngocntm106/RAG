@@ -1,0 +1,69 @@
+[
+  {
+    "question_id": "Q01",
+    "question": "Điều 8 quy định những nhu cầu vốn nào không được cho vay?",
+    "question_type": "exact",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN:hierarchical:0010",
+      "TT_39_2016_NHNN:hierarchical:0011",
+      "TT_39_2016_NHNN:hierarchical:0012"
+    ],
+    "relevant_parent_ids": [
+      "p:d9e714f4f70b7a26"
+    ],
+    "needs_human_review": true,
+    "notes": "Câu hỏi exact tra cứu nhu cầu vốn cấm cho vay theo Điều 8."
+  },
+  {
+    "question_id": "Q02",
+    "question": "Khách hàng cần đáp ứng những yêu cầu gì để được tổ chức tín dụng xem xét cho vay?",
+    "question_type": "paraphrase",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN:hierarchical:0007",
+      "TT_39_2016_NHNN:hierarchical:0008"
+    ],
+    "relevant_parent_ids": [
+      "p:d9e714f4f70b7a26"
+    ],
+    "needs_human_review": true,
+    "notes": "Câu hỏi paraphrase về điều kiện cho vay (Điều 7)."
+  },
+  {
+    "question_id": "Q03",
+    "question": "Điều kiện vay vốn và những nhu cầu vốn không được cho vay được quy định như thế nào?",
+    "question_type": "multi_aspect",
+    "relevant_child_ids": [
+      "TT_39_2016_NHNN:hierarchical:0007",
+      "TT_39_2016_NHNN:hierarchical:0010"
+    ],
+    "relevant_parent_ids": [
+      "p:d9e714f4f70b7a26"
+    ],
+    "needs_human_review": true,
+    "notes": "Câu hỏi đa khía cạnh bao gồm điều kiện cho vay và nhu cầu cấm cho vay."
+  },
+  {
+    "question_id": "Q04",
+    "question": "Quy định về cơ cấu lại thời hạn trả nợ gồm điều kiện, thời gian và trách nhiệm nào?",
+    "question_type": "hierarchy_context",
+    "relevant_child_ids": [
+      "TT_02_2023_NHNN:hierarchical:0004",
+      "TT_02_2023_NHNN:hierarchical:0005"
+    ],
+    "relevant_parent_ids": [
+      "p:82e51bca88acfd94",
+      "p:0a6bd3c8d7ef1bc8"
+    ],
+    "needs_human_review": true,
+    "notes": "Câu hỏi đòi hỏi bối cảnh toàn diện về cơ cấu thời hạn trả nợ (Thông tư 02/2023)."
+  },
+  {
+    "question_id": "Q05",
+    "question": "Lãi suất tiết kiệm cao nhất trên thị trường hôm nay là bao nhiêu?",
+    "question_type": "out_of_scope",
+    "relevant_child_ids": [],
+    "relevant_parent_ids": [],
+    "needs_human_review": true,
+    "notes": "Câu hỏi out-of-scope ngoài phạm vi quy định pháp luật trong dữ liệu."
+  }
+]
